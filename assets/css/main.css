@@ -2631,3 +2631,23 @@ input, select, textarea {
 				}
 
 	}
+	/* Styles for Experience and Skills Sections */
+#experience, #skills {
+    padding: 20px 0;
+}
+
+#experience .experience-entry, #skills .skills-list {
+    margin-bottom: 20px;
+}
+
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-list li {
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
