@@ -2651,3 +2651,11 @@ input, select, textarea {
     padding: 10px;
     border-radius: 5px;
 }
+
+.button.special {
+    background-color: #f56a6a;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
