@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Akshay 👋  <br><br>🎓 Computer Science student at BITS Pilani Dubai  <br>🤖 Interested in Artificial Intelligence & Cybersecurity  <br>📊 Exploring Data Science and Machine Learning  <br><br>Currently building projects to strengthen my problem-solving and development skills.<br>Always learning. Always improving.
+Hi, I'm Akshay 👋  <br><br>🎓 Computer Science student at BITS Pilani Dubai  <br>🤖 Interested in Artificial Intelligence   <br>📊 Exploring Data Science and Machine Learning  <br><br>Currently building projects to strengthen my problem-solving and development skills.<br>Always learning. Always improving.
 
 
 ## 🌐 Socials:
